@@ -1,7 +1,6 @@
 <h1 align="center">Hola, Soy Jeferson Arias Alape</h1>
 <h3 align="center">Me interesa bastante todo lo relacionado con la programación, estoy orientado más a gestión base de datos y gestión de transacciones, soy de Bogotá DC - Colombia</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
