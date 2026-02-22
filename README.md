@@ -7,7 +7,7 @@
 ## 🎓 Formación Académica
 
 - Estudiante de **Ingeniería de Sistemas** (Pregrado) en la **Universidad Uniminuto**.
-- Inicio de estudios: **2023** | Actualmente cursando **V semestre**.
+- Inicio de estudios: **2023** | Actualmente cursando **VII semestre**.
 
 ---
 
